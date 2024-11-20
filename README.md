@@ -1,2 +1,3 @@
 # getThatMoney
-memory-saved architecture using LSTMs 
+
+memory-saved architecture using LSTMs for stock market prediction
